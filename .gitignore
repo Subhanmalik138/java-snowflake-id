@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# Build output
+out/
+target/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.code-workspace
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Test caches
+*.hprof
